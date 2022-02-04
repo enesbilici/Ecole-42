@@ -1,0 +1,5 @@
+Credentials cache: API:42063DA9-151A-4FCD-8F2D-498818581A1B
+        Principal: ebilici@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 25 09:12:56 2021  Nov 25 19:12:56 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
